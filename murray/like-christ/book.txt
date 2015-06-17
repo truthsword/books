@@ -10,8 +10,7 @@ The second remark I wish to make is a suggestion as to what I think is needed re
 
 And now I entrust the little book to the gracious care of the blessed Lord of whose glory it seeks to tell. May He give us to see that there is no beauty or blessedness like that of a Christ-like life. May He teach us to believe that in union with Him the Christ-like life is indeed for us. And as each day we listen to what His Word tells us of His image, may each one of us have grace to say, "O my Father! even as Thy beloved Son lived in Thee, with Thee, for Thee on earth, even so would I also live."
 
-Andrew Murray
-
+Andrew Murray  
 Wellington, Cape of Good Hope
 
 *P.S.*—As the tone of the meditations is mostly personal, I have, at the close of the volume, added some more general thoughts, on "Preaching Christ as our Example."
@@ -1051,11 +1050,11 @@ O holy meekness! Thou art not come down to earth only for a short visit, then to
 
 Thou Blessed Lamb of God, my Savior and Helper, I count on Thee. Thou wilt make Thy meekness to dwell in me. Through Thy indwelling Thou dost conform me to Thy image. O come, and as an act of Thy rich free grace even now, as I wait on Thee, reveal Thyself as my King, meek, and coming in to take possession of me for Thyself.
 
-\startpoem
-Precious, gentle, holy Jesus,
-Blessed Bridegroom of my heart,
-In Thy secret inner chamber,
-Thou wilt show me what Thou art. Amen.
+\startpoem  
+Precious, gentle, holy Jesus,  
+Blessed Bridegroom of my heart,  
+In Thy secret inner chamber,  
+Thou wilt show me what Thou art. Amen.  
 \stoppoem
 \stopprayer
 
