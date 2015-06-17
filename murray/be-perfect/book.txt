@@ -22,7 +22,7 @@ Among the thoughts which have specially been brought home to me in these meditat
 
 In the hope that these simple meditations may help some of God's children to go on to Perfection, I commit them and myself to the Blessed Father's teaching and keeping.
 
-Andrew Murray
+Andrew Murray  
 Wellington, 1893.
 
 ## Prayer
@@ -197,10 +197,10 @@ In our next meditation we pass on to the New Testament. In the Old we have the t
 
 "Blessed are the perfect in the way!" We have heard the testimony of an Old Testament saint, and is it not written of New Testament times, "He that is feeble shall be as David!" Surely now, in the fullness of time, when Jesus our High Priest in the power of an endless life saves completely, and the Holy Spirit has come out of God's heaven to dwell within us and lie our life,—surely now there need not be one word of the psalm that is not meant to be literal truth in the mouth of every believer. Let us read it once more. Speaking it word for word before God, as its writer did, we too shall begin to sing, "Blessed are the perfect in the way, that seek Him with the whole heart."
 
-\startpoem
-I will behave myself wisely in a perfect way.
-Oh! when wilt Thou come unto me!
-I will walk within my house with a perfect heart.
+\startpoem  
+I will behave myself wisely in a perfect way.  
+Oh! when wilt Thou come unto me!  
+I will walk within my house with a perfect heart.  
 \stoppoem
 
 
@@ -745,3 +745,5 @@ The chief difference between the two words lies in *teleios* having more referen
 [^9]: *Three Friends of God*. By Mrs. Bevan.
 
 [^10]: "The commands of Jesus together constitute His word. Of this word we cannot choose out a half or a part to keep. The whole heart and the whole mind must yield itself completely to this word, and in simplicity of purpose cling to it. Then all the truth we know about Jesus becomes as one word, one thought, that comprehends all, one single light in which we behold Jesus. Thus the promise is fulfilled: If a man keep My word, My Father will love him; and we will come unto him, and dwell with him. It is to this John refers: He that keepeth His word, in him verily is the love of God perfected; that is, it is the truth when such a one says that God's love has taken complete possession of his heart, and he lives in it. He experiences what Jesus spoke of the love of the Father resting on Him, and being in Him; his heart is inwardly permeated with it, and filled; so that all the inclinations, desires, and affections are drawn up into this love, and entirely satisfied with it. The soul now knows and tastes how wonderful the love of God to us sinners is in His Son. It now loves God with all the heart and all the mind. In the inner ground of the heart there is no longer anything halved or divided; there is no more self-will or self-seeking to stand in the way of God's love; the soul gives itself wholly to God with an humbled but wholly satisfied heart. It can now be said: The love of God in Christ has attained its purpose, has got full possession of the heart, sweetly fills all the powers of the soul, and rules over all it does."—Steinhofer on 1 John.
+
+The End.
